@@ -2,7 +2,7 @@
   "activities_url": "https://www.strava.com/api/v3/athlete/activities",
   "auth_url": "https://www.strava.com/oauth/token",
   "mydata": {
-    "client_id": <'seu_client_id'> ,
+    "client_id": 123456 ,
     "client_secret": "<seu_secret_strava>",
     "grant_type": "refresh_token",
     "f": "json"
